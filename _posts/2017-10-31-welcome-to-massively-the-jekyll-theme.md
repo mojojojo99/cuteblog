@@ -1,28 +1,47 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
-image: "/images/pic02.jpg"
+title:  "The Usual Welcome Note"
+date:   2019-07-31
+excerpt: "Huge thanks to the certain people who gave me the inspo for reviving my blog and revamping it~"
+image: "/images/pic_01_post.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## My blog and First Thoughts
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+Words seem to be always overflowing out of me; I'm so full to the brink that I feel I need to catch those slipping out of my mouth, like that last raindrop sliding off the tight surface water tension of a cup that is me. One day, I might as well string these words up on a line and display them somewhere (not that they are much of a sight to see though), or so I thought. And thoughts becomes actions because why not? Spontaneity is at the same time my best and worst trait. But well, 
 
-Open a terminal window or a command line and ```cd``` to that location.
+<blockquote>
+This is your life and its ending one moment at a time.
+</blockquote>
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+What better day than today :)
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+<hr/>
+
+### On Freedom 
+<span class="image left"><img src="{{ "/images/post0_1.jpg" | absolute_url }}" alt="" /></span>
+
+
+I took this picture above wandering in Utah, travelling with some friends during my freshman year. This was not one of those magnificent sights or paid-to-see natural attractions, but somehow I remember this scene particularly vividly because it was timeless. Snowflakes weren't just falling -- they were floating, dancing, twirling, with little regard for earth's magnetic pull, fragile but defiant if I might venture to give these little wonders a personality. But alas, dances must come to an end and these flakes of milky chalk rest, lightly adourning the boundless fields of pure emptiness, covering the bare and endless roads fairly and equally in plain white. Sky and earth never seemed so close, a thin line separating the watercolour gradient and dotted white meadows. 
+
+We pulled over. There was no stop, no end to the highway. But ever so casually, we hopped off the car and marked the virgin snow with our careless footprints, absentminded laughter bursting from the middle of our bellies while exploring the unknown. We didn't know where we were, didn't know exactly where we were heading towards, but we were so free. That day I learnt, freedom tastes like snow on just your average cold day.
+
+And that feeling is a feeling worth living for.
+
+<hr/>
+
+
+### Growing Up and My Treasure Box
+
+Fast forward to today 4 years later. I'd say growing up is like the bitter cough syrup forced down your throat when you were a child; do I want it? no, but it probably is somewhat good for me. It is a rite of passage, a metamorphosis, and it was a fun journey for me. I've found new dreams, new goals, new adventures and new people I love. 
+
+But ironically, in this process of discovering new passions, I find myself feeling weirdly less free than before. It feels like a heavy cloud settling in, a collector's fear maybe: with all these prized possessions and rare gems in my treasure box, now it seems like 
+I'm inadvertently weighed down with the burdensome and leaden fear of losing, losing my way, losing these diamonds I've found. 
+
+So I want this blog to be an archive of the things that matter to me, it is a place where I tuck my treasures away in a safe corner, rather than lug them on my cumbersome journey ahead. I want this blog to serve as a reminder to self to never forget the spirit of adventure, to always pack light and bring myself out there. I want this blog to be my safe haven where all the cozy memories are at, but at the same time be the sturdy sail that urges me on for the next voyage. 
+
+Who do I write for? Myself. Unfortunately, I think humans are selfish creatures and I write to please myself. Words flow and I'm catching them on this blank canvas. Writing a blog is like a step into the unknown for me, just like the time we stopped and played in the endless snow in Utah, and I hope it will always feel the same way I pen my thoughts on a new post.
+
+<hr/>
+
+By now, you will know that I ramble and I want to thank you so much for still being here with me. This blog is still a huge Work In Progress and I still have a lot more improvements planned ahead. Hope you enjoy your stay here!
